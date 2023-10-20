@@ -1,2 +1,3 @@
-# QuantumMachineLearning_Pipeline
-Image Encoding Pipeline using Quantum Machinne Learning Techniques
+# Quantum Machine Learning Pipeline
+
+Encoding Pipeline Using Quantum Machine Learning Techniques
